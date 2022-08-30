@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm <a href="https://w4rf0t.github.io">𝑲𝒊𝒎 𝑷𝒉𝒖</a>!</h1>
-<h1 align="center">𝕀𝕟𝕗𝕠𝕣𝕞𝕒𝕥𝕚𝕠𝕟 𝔸𝕤𝕤𝕦𝕣𝕒𝕟𝕔𝕖 𝕤𝕥𝕦𝕕𝕖𝕟𝕥  </h1>
-<a href="https://w4rf0t.github.io"><p align="center"><br> <img src="https://komarev.com/ghpvc/?username=w4rf0t" /></a>
-
 ##  [Welcome To KimPhu's Profile](w4rf0t.github.io)
-<br>
+<a href="https://w4rf0t.github.io"><p align="left"><br> <img src="https://komarev.com/ghpvc/?username=w4rf0t" /></a><br>
 <a href="w4rf0t.github.io"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="110" /></a>
 
 - 🌱 I’m currently learning Information Assurance at FPT University (3rd student) 		
