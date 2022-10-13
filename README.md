@@ -47,7 +47,7 @@
 **TryHackMe profile**
 
 <a href = "https://www.tryhackme.com/p/warfot" target="_blank" rel="noopener noreferrer">
-<img src="https://tryhackme-badges.s3.amazonaws.com/warfot.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/warfot.png" alt="TryHackMe">
 </a>
 
 
