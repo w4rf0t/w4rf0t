@@ -44,6 +44,11 @@
 ![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=)
 ![freeCodeCamp](https://img.shields.io/static/v1?style=for-the-badge&message=freeCodeCamp&color=0A0A23&logo=freeCodeCamp&logoColor=FFFFFF&label=)
 
+# TryHackMe profile
+<a href = "https://www.tryhackme.com/p/w4rf0t" target="_blank" rel="noopener noreferrer">
+<img src="https://tryhackme-badges.s3.amazonaws.com/w4rf0t.png" alt="TryHackMe">
+</a>
+
 
 **Connect with me**
 <p align="left">
