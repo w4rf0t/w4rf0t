@@ -44,7 +44,7 @@
 ![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=)
 ![freeCodeCamp](https://img.shields.io/static/v1?style=for-the-badge&message=freeCodeCamp&color=0A0A23&logo=freeCodeCamp&logoColor=FFFFFF&label=)
 
-# TryHackMe & HackTheBox Profile
+## TryHackMe & HackTheBox Profile
 
 ***HackTheBox***
 
