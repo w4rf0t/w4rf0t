@@ -47,18 +47,22 @@
 
 ## 𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞 & 𝐇𝐚𝐜𝐤𝐓𝐡𝐞𝐁𝐨𝐱 𝐏𝐫𝐨𝐟𝐢𝐥𝐞
 
-***HackTheBox***
-
+| ***ㅤㅤㅤHackTheBoxㅤㅤㅤㅤ*** | ***ㅤㅤㅤㅤTryHackMeㅤㅤㅤㅤ*** |
+|----------------- | --------------- | 
 <a href = "https://app.hackthebox.com/users/771097" target="_blank" rel="noopener noreferrer" align="right">
  <img src="http://www.hackthebox.eu/badge/image/771097" alt="Hack The Box">
 </a>
-
-
-***TryHackMe***
-
-<a href = "https://www.tryhackme.com/p/warfot" target="_blank" rel="noopener noreferrer" align="left">
+  <a href = "https://www.tryhackme.com/p/warfot" target="_blank" rel="noopener noreferrer" align="left">
  <img src="https://tryhackme-badges.s3.amazonaws.com/warfot.png" alt="TryHackMe">
-</a>
+</a> 
+
+
+
+
+
+
+
+
 
 ## 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
 
