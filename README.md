@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning Information Assurance at FPT University (3rd student) 		
 - 💬 Ask me about anythings related to cyber security
+- 🔭 I’m busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Root-me.org)
 - ⚡ Fun fact: : I ❤️ 🏀 and 💻	
 <br></br>
 
@@ -58,6 +59,8 @@
 <a href = "https://www.tryhackme.com/p/warfot" target="_blank" rel="noopener noreferrer" align="left">
  <img src="https://tryhackme-badges.s3.amazonaws.com/warfot.png" alt="TryHackMe">
 </a>
+
+## 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
 
 **Connect with me**
 <p align="left">
