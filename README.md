@@ -36,8 +36,8 @@
 <a href = "https://app.hackthebox.com/users/771097" target="_blank" rel="noopener noreferrer" align="right">
  <img src="http://www.hackthebox.eu/badge/image/771097" alt="Hack The Box">
 </a>
-  <a href = "https://www.tryhackme.com/p/warfot" target="_blank" rel="noopener noreferrer" align="left">
- <img src="https://tryhackme-badges.s3.amazonaws.com/warfot.png" alt="TryHackMe">
+  <a href = "https://www.tryhackme.com/p/w4rf0t" target="_blank" rel="noopener noreferrer" align="left">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/w4rf0t.png" alt="TryHackMe">
 </a> 
 
 
