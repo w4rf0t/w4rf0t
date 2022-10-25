@@ -1,6 +1,6 @@
 ##  [Welcome To KimPhu's Profile](w4rf0t.github.io)
 <a href="https://w4rf0t.github.io"><p align="left"><br> <img src="https://komarev.com/ghpvc/?username=w4rf0t" /></a><br>
-<a href="w4rf0t.github.io"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="110" /></a>
+<a href="w4rf0t.github.io"><img src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif" align="right" height="110" /></a>
 
 - 🌱 I’m currently learning Information Assurance at FPT University (3rd student) 		
 - 💬 Ask me about anythings related to cyber security
