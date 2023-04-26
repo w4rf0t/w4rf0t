@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Information Assurance at FPT University (3rd student) 		
 - 💬 Ask me about anythings related to cyber security
-- 🔭 I’m busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Root-me.org)
 - ⚡ I l0v3 🏀 and 💻	
 <br></br>
 
