@@ -28,19 +28,6 @@
 ![Udemy](https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=A435F0&logo=Udemy&logoColor=FFFFFF&label=)
 ![freeCodeCamp](https://img.shields.io/static/v1?style=for-the-badge&message=freeCodeCamp&color=0A0A23&logo=freeCodeCamp&logoColor=FFFFFF&label=)
 
-## 𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞 & 𝐇𝐚𝐜𝐤𝐓𝐡𝐞𝐁𝐨𝐱 𝐏𝐫𝐨𝐟𝐢𝐥𝐞
-
-| ***ㅤㅤㅤHackTheBoxㅤㅤㅤㅤ*** | ***ㅤㅤㅤㅤTryHackMeㅤㅤㅤㅤ*** |
-|----------------- | --------------- | 
-<a href = "https://app.hackthebox.com/users/771097" target="_blank" rel="noopener noreferrer" align="right">
- <img src="http://www.hackthebox.eu/badge/image/771097" alt="Hack The Box">
-</a>
-  <a href = "https://www.tryhackme.com/p/w4rf0t" target="_blank" rel="noopener noreferrer" align="left">
- <img src="https://tryhackme-badges.s3.amazonaws.com/w4rf0t.png" alt="TryHackMe">
-</a> 
-
-
-
 
 
 
@@ -48,14 +35,5 @@
 
 
 ## 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
-
-**Connect with me**
-<p align="left">
-<a href="https://fb.com/w4rf0t"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/phukim_h"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hoàng-kim-phú-21a22017a"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://medium.com/@hoangkimphu"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="gautamkrishnar" height="30" width="40" /></a>  
-
-**My Stats**
 
  ![KimPhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=w4rf0t&show_icons=true&theme=tokyonight)
